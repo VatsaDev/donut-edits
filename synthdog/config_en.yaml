@@ -38,9 +38,9 @@ document:
       weights: [1]
       bold: 0
     layout:
-      text_scale: [0.0334, 0.1]
+      text_scale: [0.025, 0.08]
       max_row: 10
-      max_col: 3
+      max_col: 1
       fill: [0.5, 1]
       full: 0.1
       align: [left, right, center]
